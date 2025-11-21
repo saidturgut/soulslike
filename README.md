@@ -1,6 +1,6 @@
 # soulslike
 
-game project that i built for my portfolio years ago
+game demo that i built for my portfolio years ago
 
 **--> youtube**
 
