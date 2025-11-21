@@ -1,0 +1,75 @@
+Name,Info,ID,Value,Weight,Price,Class,Type,SubClass
+Cap,aa,1,1,1,1,Armour,Headwear,Headwear
+Beret,aa,2,1,1,1,Armour,Headwear,Headwear
+Fancy Beret,aa,3,1,1,1,Armour,Headwear,Headwear
+Skullcap,aa,4,1,1,1,Armour,Headwear,Headwear
+Oniontop Bascinet,aa,5,1,1,1,Armour,Headwear,Headwear
+Common Bascinet,aa,6,1,1,1,Armour,Headwear,Headwear
+Kettlehat,aa,7,1,1,1,Armour,Headwear,Headwear
+Bell Helmet,aa,8,1,1,1,Armour,Headwear,Headwear
+Chapel de Fer,aa,9,1,1,1,Armour,Headwear,Headwear
+Pigface Bascinet,aa,10,1,1,1,Armour,Headwear,Headwear
+Visored Bascinet,aa,11,1,1,1,Armour,Headwear,Headwear
+Houndskull Bascinet,aa,12,1,1,1,Armour,Headwear,Headwear
+Coif,aa,13,1,1,1,Armour,Coif,Coif
+Hood,aa,14,1,1,1,Armour,Coif,Coif
+Padded Coif,aa,15,1,1,1,Armour,Coif,Coif
+Mail Coif,aa,16,1,1,1,Armour,Coif,Coif
+Commoner Cloak,aa,17,1,1,1,Armour,Outerwear,Outerwear
+Stylish Hood,aa,18,1,1,1,Armour,Outerwear,Outerwear
+Tabard,aa,19,1,1,1,Armour,Outerwear,Outerwear
+Tabard with Cloak,aa,20,1,1,1,Armour,Outerwear,Outerwear
+Tabard with Hood,aa,21,1,1,1,Armour,Outerwear,Outerwear
+Knightly Tabard,aa,22,1,1,1,Armour,Outerwear,Outerwear
+Arming Coat,aa,23,1,1,1,Armour,Bodywear,Bodywear
+Leather Jerkin,aa,24,1,1,1,Armour,Bodywear,Bodywear
+Mail Shirt,aa,25,1,1,1,Armour,Bodywear,Bodywear
+Noble Hauberk,aa,26,1,1,1,Armour,Bodywear,Bodywear
+Elbow Pads,aa,27,1,1,1,Armour,ArmPlate,ArmPlate
+Plate Couters,aa,28,1,1,1,Armour,ArmPlate,ArmPlate
+Pauldrons,aa,29,1,1,1,Armour,ArmPlate,ArmPlate
+Lordly Arm Plates,aa,30,1,1,1,Armour,ArmPlate,ArmPlate
+Leather Gloves,aa,31,1,1,1,Armour,Handwear,Handwear
+Hunter Gloves,aa,32,1,1,1,Armour,Handwear,Handwear
+Composite Gauntlets,aa,33,1,1,1,Armour,Handwear,Handwear
+Hourglass Gauntlets,aa,34,1,1,1,Armour,Handwear,Handwear
+Knee Pads,aa,35,1,1,1,Armour,LegPlate,LegPlate
+Greaves,aa,36,1,1,1,Armour,LegPlate,LegPlate
+Half Leg Plates,aa,37,1,1,1,Armour,LegPlate,LegPlate
+Full Leg Plates,aa,38,1,1,1,Armour,LegPlate,LegPlate
+Poulaines,aa,39,1,1,1,Armour,Footwear,Footwear
+Burgher Shoes,aa,40,1,1,1,Armour,Footwear,Footwear
+Fine Boots,aa,41,1,1,1,Armour,Footwear,Footwear
+Sabatons,aa,42,1,1,1,Armour,Footwear,Footwear
+Cheap Blade,aa,43,28,3.5,1,Weapon,RightHand,Sword
+Broad Sword,aa,44,45,4,1,Weapon,RightHand,Sword
+Noble Sword,aa,45,58,4.3,1,Weapon,RightHand,Sword
+Razor,aa,46,67,4.5,1,Weapon,RightHand,Sword
+Crude Axe,aa,47,39,5,1,Weapon,RightHand,Axe
+Bardiche,aa,48,53,5.8,1,Weapon,RightHand,Axe
+Battleaxe,aa,49,64,6.4,1,Weapon,RightHand,Axe
+Chopper,aa,50,78,6.6,1,Weapon,RightHand,Axe
+Broad Sword,aa,51,64,5.7,1,Weapon,RightHand,Longsword
+Merchant Sword,aa,52,78,6,1,Weapon,RightHand,Longsword
+Trusty Blade,aa,53,91,6.5,1,Weapon,RightHand,Longsword
+St Aldrich's Sword,aa,54,102,6.6,1,Weapon,RightHand,Longsword
+Spear,aa,55,49,5,1,Weapon,RightHand,Spear
+Needle,aa,56,61,5.5,1,Weapon,RightHand,Spear
+Boar Slayer,aa,57,74,5.6,1,Weapon,RightHand,Spear
+Knightly Spear,aa,58,92,6,1,Weapon,RightHand,Spear
+Glaive,aa,59,51,11,1,Weapon,RightHand,Polearm
+Cleaver,aa,60,65,11.6,1,Weapon,RightHand,Polearm
+Halberd,aa,61,72,12,1,Weapon,RightHand,Polearm
+Guisarme,aa,62,85,13.3,1,Weapon,RightHand,Polearm
+Light Crossbow,aa,63,76,5,1,Weapon,RightHand,Crossbow
+Hunting Crossbow,aa,64,92,5.1,1,Weapon,RightHand,Crossbow
+Steel Crossbow,aa,65,115,5.6,1,Weapon,RightHand,Crossbow
+Masterwork Crossbow,aa,66,140,5.8,1,Weapon,RightHand,Crossbow
+Dagger,aa,67,15,1,1,Weapon,LeftHand,Dagger
+Stinger,aa,68,21,1.3,1,Weapon,LeftHand,Dagger
+Honor,aa,69,27,1.6,1,Weapon,LeftHand,Dagger
+Assasin,aa,70,39,1.8,1,Weapon,LeftHand,Dagger
+Light Shield,aa,71,1,8.3,1,Weapon,LeftHand,Shield
+Heater Shield,aa,72,1,8.6,1,Weapon,LeftHand,Shield
+Kite Shield,aa,73,1,9.5,1,Weapon,LeftHand,Shield
+Knight Shield,aa,74,1,10,1,Weapon,LeftHand,Shield

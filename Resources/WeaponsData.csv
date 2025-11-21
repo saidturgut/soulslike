@@ -1,0 +1,8 @@
+Class,Type,Scabbard,Stamina,Speed,Distance
+Sword,0,0,17,1.1,1.75
+Axe,0,4,21,1,1.8
+Longsword,1,2,25,1,2.5
+Spear,0,1,27,0.95,3.2
+Polearm,1,1,32,0.8,3
+Crossbow,2,3,17,0,1.75
+Dagger,0,5,17,0,1.75
